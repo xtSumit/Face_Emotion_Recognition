@@ -1,1 +1,1 @@
-# Face Expressions Recognition
+# Facial Expressions Recognition
